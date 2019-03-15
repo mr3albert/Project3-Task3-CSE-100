@@ -1,0 +1,2 @@
+The shortest path through the three cities is the following: San Francisco, CA, Bend, OR, Erie, PA,then Chicago, IL. 
+And the distance is :1156
