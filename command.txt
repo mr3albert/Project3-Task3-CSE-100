@@ -1,0 +1,1 @@
+./build/flightPath ./data/chimps_16091-2010-08-03_17-08-31/smallflight.tsv ./data/scities.txt ./output.txt 
